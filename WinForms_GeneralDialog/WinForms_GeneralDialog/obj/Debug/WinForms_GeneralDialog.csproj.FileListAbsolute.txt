@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\bin\Debug\WinForms_GeneralDialog.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\bin\Debug\WinForms_GeneralDialog.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\bin\Debug\WinForms_GeneralDialog.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_GeneralDialog\WinForms_GeneralDialog\WinForms_GeneralDialog\obj\Debug\WinForms_GeneralDialog.pdb
